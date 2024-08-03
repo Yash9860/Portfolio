@@ -8,7 +8,7 @@ export const Bio = {
     "Master in Computer Applications professional with over 2 years of experience in cloud and web development. Successfully transitioned from third-party contracts to a permanent role at Tata Technologies, contributing to a 20% increase in client satisfaction. Currently working as a full-stack developer, leading the end-to-end development of web applications. Certified in ReactJS, with proficiency in JavaScript, jQuery, ReactJS, and Perl. Delivered responsive, user-centric web applications, resulting in a 15% improvement in user engagement. Known for building strong client relationships and consistently delivering projects on time and within budget",
   github: "https://github.com/Yash9860",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/110UhsE2G---GhCGpdPV4rMK-QhJgM4Ue/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/yash-kulkarni-054b5b155/",
   insta: "https://www.instagram.com/kulkarni_yash/",
   facebook: "https://www.facebook.com/yash.kulkarni.334?mibextid=LQQJ4d/",
